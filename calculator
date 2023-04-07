@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> A Tribute Page </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header-section">
+        <h1 class="title"> KIRAN BEDI</h1>
+    </header>
+
+    <section class="main-image">
+        <img src="download2.png"/>
+        <caption> The focus is what is right before you - to give it your best. It sows the seeds of tomorrow. </caption>
+    </section>
+
+    <section class="bio">
+        <h2 class="bio-heading">Biography</h2>
+        <p> Kiran Bedi (born 9 June 1949) is an Indian social activist, former-tennis player who became the first woman in India to join the officer ranks of the Indian Police Service (IPS) in 1972 and was the 24th Lieutenant Governor of Puducherry from 28 May 2016 to 16 February 2021.[2][3][4] She remained in service for 35 years before taking voluntary retirement in 2007 as Director General, Bureau of Police Research and Development.
+        <br>
+        The first women IPS Officer, Dr. Kiran Bedi is addressing Tomorrow's leaders and the youth of our country in these enthralling lessons as to how we all must manage our time and increase our Productivity and efficiency. She also talks about what it takes to become a leader and the qualities that need to be developed. In her last lesson, she talks about how one must not waste the gifts given by God and how everyone's life must be self-driven.
+        <br>
+        Kiran Bedi is an epitome of how hard work leads to success in life. The former IPS officer was never deterred by tough assignments. In fact, it was her continuous determination in work that helped her to quickly rise in her career and served as Deputy Inspector General of Police in Mizoram, and Advisor to the Lieutenant Governor of Chandigarh. Not only this, but she was also the Director General of Narcotics Control Bureau, and Civilian Police Advisor in the United Nations (UN) peacekeeping operations, and lastly was rewarded with UN medal due to her hard work, perseverance, and dedication. 
+        
+        </p>
+    </section>
+</body>
+
+</html>
